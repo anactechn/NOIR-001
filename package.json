@@ -1,16 +1,10 @@
 {
-  "name": "noir001-premium",
+  "name": "noir001",
   "private": true,
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
-  },
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "vite": "^5.0.0"
+    "build": "vite build",
+    "preview": "vite preview"
   }
 }
